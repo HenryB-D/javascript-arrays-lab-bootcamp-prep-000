@@ -29,3 +29,5 @@ function prependKitten(name){
   newArray.unshift(name)
   return newArray
 }
+
+function removeLast Kitten
